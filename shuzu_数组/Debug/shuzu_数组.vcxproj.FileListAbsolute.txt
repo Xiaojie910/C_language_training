@@ -1,0 +1,2 @@
+E:\C_language\shuzu_数组\Debug\shuzu_数组.exe
+E:\C_language\shuzu_数组\Debug\shuzu_数组.pdb

@@ -1,0 +1,2 @@
+E:\C_language\hanshu_函数\Debug\hanshu_函数.exe
+E:\C_language\hanshu_函数\Debug\hanshu_函数.pdb
